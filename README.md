@@ -87,10 +87,9 @@ Portfolio-Dashboard-Creation-Using-Excel/
 
 ## 👨‍💻 About the Creator
 
-**Abinesh M**  
+**Lokesh Kumar K**  
 🎓 Data Enthusiast | Financial Analyst | Excel Wizard  
-🔗 [LinkedIn: linkedin.com/in/abinesh555](https://www.linkedin.com/in/abinesh555/)  
-💻 [GitHub: github.com/yourusername](https://github.com/technicalabinesh) *(Update this)*
+💻 [GitHub: github.com/yourusername](https://github.com/lokeshkumar21) *(Update this)*
 
 
 ---
